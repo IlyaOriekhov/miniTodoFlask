@@ -24,7 +24,7 @@
 
 1. Клонуйте репозиторій:
 ```bash
-git clone https://github.com/IlyaOriekhov/monoTodoFlask.git
+git clone https://github.com/IlyaOriekhov/miniTodoFlask.git
 cd monoTodoFlask
 ```
 
